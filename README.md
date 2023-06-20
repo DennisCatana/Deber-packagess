@@ -16,4 +16,5 @@ Nombre: Cataña Dennis
 # Elipse
 ![img_4.png](img_4.png)
 
-
+# Salida del programa
+![img_5.png](img_5.png)
