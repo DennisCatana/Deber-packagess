@@ -45,10 +45,10 @@ public class main {
     public static int menuPrincipal() {
         System.out.println("\n---------- Menú de fijuras del equipo 2 ---------\n");
         System.out.println("En este menu contamos con 4 figuras mostradas a continuacion.\n");
-        System.out.println("1. Circunferencia ");
-        System.out.println("2. Elipse ");
+        System.out.println("1. Parabola ");
+        System.out.println("2. Circunnferencia");
         System.out.println("3. Hiperbole ");
-        System.out.println("4. Parabola ");
+        System.out.println("4. Elipse ");
         System.out.println("5. Salir \n");
         System.out.print("Selecione una opción: ");
         opcion = scanner.nextInt();
