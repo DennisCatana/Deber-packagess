@@ -54,7 +54,7 @@ public class main {
         opcion = scanner.nextInt();
         while (opcion < 1 || opcion > 5) {
             System.out.println("\n=================================================================================");
-            System.out.println(" Ingrese una opción válida ");
+            System.out.println(" Ingrese una opción válida");
             System.out.println("=================================================================================");
             System.out.print("\nDígite la opción: ");
             opcion = scanner.nextInt();
