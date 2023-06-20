@@ -39,5 +39,8 @@ public class Elipse {
         double perimetro = (Math.PI * 3*(this.eje_mayor + this.eje_menor) - Math.sqrt((3*this.eje_mayor+this.eje_menor)*(this.eje_mayor+ (3*this.eje_menor))));
         return perimetro;
     }
-
+    public void imprimir_Datos(){
+        System.out.println("\nEl perimetro de la elipse es: " + perimetro_elipse());
+        System.out.println("El area de la elipse es: " + area_elipse());
+    }
 }
